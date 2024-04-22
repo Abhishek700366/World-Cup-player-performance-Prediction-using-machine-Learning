@@ -36,6 +36,8 @@ Future Scope:
 Develop models capable of adapting to evolving player form and changing game dynamics.
 Explore the potential for implementing real-time prediction systems during live matches.
 Tailor models for individual player prediction, considering unique playing styles and strengths.
+
+
 Expected outcome:
 This methodology lays the foundation for a sophisticated system to predict cricket player 
 performance, with ample opportunities for refinement and expansion in the future.
